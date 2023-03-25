@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚗 I'm a data engineer / scientist with a passion for human behaviors and cars <br>🔭 I’m working on Data Warehousing at OCTO Technology<br>🌱 I’m currently learning data architecture and responsible practice in data  <br>🦉 Shoot me an <a href="mailto:fabien.roussel921@gmail.com">email</a> or add me on [linkedin](https://www.linkedin.com/in/fabien-roussel/)
+🚗 I'm a data engineer / scientist with a passion for human behaviors and cars <br>🔭 I’m working on Data Warehousing at OCTO Technology<br>🌱 I’m currently learning data architecture and responsible practice in data  <br>🦉 Shoot me an <a href="mailto:fabien.roussel921@gmail.com">email</a> or add me on [linkedin](https://www.linkedin.com/in/fabien-roussel/) !
 
 
 ## 🌐 Socials:
